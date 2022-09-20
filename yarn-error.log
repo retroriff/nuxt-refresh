@@ -1,0 +1,49 @@
+Arguments: 
+  /Users/xavi/.nvm/versions/node/v16.17.0/bin/node /Users/xavi/.yarn/bin/yarn.js install
+
+PATH: 
+  /Users/xavi/.nvm/versions/node/v16.17.0/bin:/Users/xavi/.yarn/bin:/Users/xavi/.config/yarn/global/node_modules/.bin:/Users/xavi/Applications/google-cloud-sdk/bin:/Users/xavi/Applications/google-cloud-sdk/bin:/Users/xavi/Library/Preferences/netlify/helper/bin:/opt/homebrew/opt/node@14/bin:/opt/homebrew/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/php@7.3/sbin:/usr/local/opt/php@7.3/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/Users/xavi/bin:/usr/local/opt/elasticsearch@5.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/usr/local/git/bin:/Users/xavi/.nvm/versions/node/v16.17.0/bin:/Users/xavi/.yarn/bin:/Users/xavi/.config/yarn/global/node_modules/.bin:/Users/xavi/Applications/google-cloud-sdk/bin:/Users/xavi/Library/Preferences/netlify/helper/bin:/opt/homebrew/opt/node@14/bin:/opt/homebrew/bin:/usr/local/opt/mysql@5.7/bin:/usr/local/opt/php@7.3/sbin:/usr/local/opt/php@7.3/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/sbin:/Users/xavi/bin:/usr/local/opt/elasticsearch@5.6/bin:/Users/xavi/.rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/xavi/Sites/catchot-refresh/package.json: Unexpected token } in JSON at position 363
+      at JSON.parse (<anonymous>)
+      at /Users/xavi/.yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/xavi/.yarn/lib/cli.js:310:30)
+      at /Users/xavi/.yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "private": true,
+    "scripts": {
+      "build": "nuxt build",
+      "dev": "nuxt dev",
+      "generate": "nuxt generate",
+      "preview": "nuxt preview"
+    },
+    "dependencies": {
+      "@nuxt/content": "^2.1",
+      "@nuxt/image-edge": "^1.0.0-27657146.da85542",
+      "@nuxt/types": "^2.15.8",
+      "@nuxtjs/i18n": "yarn:@nuxtjs/i18n-edge",
+      "@types/node": "^18.7.13",
+    },
+    "devDependencies": {
+      "nuxt": "3.0.0-rc.9"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
