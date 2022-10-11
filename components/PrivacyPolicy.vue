@@ -1,5 +1,6 @@
 <template>
   <section class="privacy">
+    <h1>Content</h1>
     <ContentRenderer v-if="data" :value="data" />
     <Loading v-else />
   </section>
@@ -8,12 +9,7 @@
 <script setup lang="ts">
 const { locale } = useI18n()
 
-const { data, refresh } = await useAsyncData('privacy-policy', () => {
+const { data } = await useAsyncData(locale.value, () => {
   return queryContent(locale.value + '/privacy-policy').findOne()
 })
-
-watch(
-  () => locale.value,
-  () => refresh()
-)
 </script>
