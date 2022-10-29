@@ -1,7 +1,7 @@
 import { defineNuxtConfig } from 'nuxt'
 
 export default defineNuxtConfig({
-  ssr: false,
+  ssr: true,
   modules: [
     '@nuxt/content',
     '@nuxtjs/i18n',
