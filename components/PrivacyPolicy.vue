@@ -7,9 +7,7 @@
 </template>
 
 <script setup lang="ts">
-const { locale } = useI18n()
-
-const { data } = await useAsyncData(locale.value, () => {
-  return queryContent(locale.value + '/privacy-policy').findOne()
+const { data } = await useAsyncData('component', () => {
+  return queryContent('/privacy-policy').findOne()
 })
 </script>
