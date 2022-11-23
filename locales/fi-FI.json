@@ -1,0 +1,86 @@
+{
+  "homepage": {
+    "title": "Front End Kehittäjä & Hakukoneoptimointi",
+    "description": "Olen Turussa työskentelevä freelance verkkokehittäjä jolla on mittava kokemus hakukoneoptimoinnissa (SEO) ja verkkokaupassa."
+  },
+
+  "global": {
+    "loading": "Ladataan..."
+  },
+
+  "header": {
+    "close": "Sulje kielenvaihtaja",
+    "contact": "Ottaa yhteyttä",
+    "langSelect": "Valitse kieli",
+    "switchLanguage": "Vaihda kieltä",
+    "switchToDark": "Vaihda tummaan väritilaan",
+    "switchToLight": "Vaihda vaaleaan väritilaan"
+  },
+
+  "intro": {
+    "title": "Autan yrityksiä rakentamaan {fast} ja{modern} verkkosivustoja keskittyen erityisesti hakukoneoptimointiin parantamiseen.",
+    "title2": "Autan yrityksiä rakentamaan <strong>fast</strong> ja <strong>modern</strong> verkkosivustoja keskittyen erityisesti hakukoneoptimointiin parantamiseen.",
+    "fast": "nopeita",
+    "modern": "nykyaikaisia",
+    "description": "Hola! Olen Turussa työskentelevä {h1}, jolla on mittava kokemus hakukoneoptimoinnista (SEO) ja verkkokaupasta.",
+    "h1": "freelance front end kehittäjä",
+    "readMore": "Lue lisää minusta"
+  },
+
+  "about": {
+    "text": "Olen Xavier Catchot, verkkokehittäjä ja SEO-konsultti Barcelonasta. Työskentelen nykyään Turusta käsin, ja olenkin useamman vuoden etätyön ja jatkuvan matkustelun jälkeen kiinnostunut suuntaamaan palvelujani aktiivisemmin myös suomalaisille organisaatioille. Minulla on yli 20 vuoden kokemus verkkosivujen kehittämisestä ja erityisosaamiseeni kuuluvat <mark>front end -kehitys</mark> ja <mark>hakukoneoptimointi (SEO)</mark>. Minulla on myös laaja-alaista kokemusta <mark>digitaalisen kaupankäynnin (eCommerce)</mark> parista, ja keskityn työssäni erityisesti <mark>konversion</mark> ja <mark>sivustojen suorituskyvyn optimointiin</mark>.",
+    "turkuPicture": "Kuva Turun horisonttiin"
+  },
+
+  "skills": {
+    "title": "Joitain päivittäisessä työssäni käyttämistäni työkaluista"
+  },
+
+  "modal": {
+    "close": "Sulje"
+  },
+
+  "contact": {
+    "title": "Ota yhteyttä",
+    "description": "Käytä oheista lomaketta, jos tiimisi kaipaa lisävahvistusta kaikenkokoisissa verkkokehitykseen ja digimarkkinointiin liittyvissä projekteissa. Kerron myös mielelläni lisää palveluistani ja osaamisestani!",
+    "description2": "Voit myös löydät minut naista verkoista:",
+    "linkedin": "Linkedin",
+    "github": "Github",
+    "name": "Nimi",
+    "yourName": "Nimesi",
+    "company": "Yritys",
+    "yourCompanyName": "Yrityksesi",
+    "telephone": "Puhelinnumero",
+    "telephoneNumber": "Puhelinnumerosi",
+    "message": "Viesti",
+    "iAccept": "Hyväksyn {privacy}",
+    "iAccept2": "Hyväksyn",
+    "privacyPolicy": "tietosuojaselosteen",
+    "privacyPolicyTitle": "Tietosuojakäytäntö",
+    "submit": "Lähetä",
+    "error": "Virhe",
+    "errorName": "Anna nimesi",
+    "errorEmail": "Anna sähköpostiosoitteesi",
+    "errorComment": "Kirjoita viestisi",
+    "errorTerms": "Hyväksy käytäntöni yksityisyys",
+    "thanks": "Kiitos! Viestisi lähetys onnistui. Otamme sinuun yhteyttä pian!"
+  },
+
+  "form": {
+    "required": "required"
+  },
+
+  "location": {
+    "title": "Sijainti"
+  },
+
+  "footer": {
+    "barcelona": "Barcelona",
+    "catalonia": "Katalonia",
+    "spain": "Espanja",
+    "description": "Tehty {nuxt}",
+    "description2": "Tehty Nuxt.js: llä",
+    "jamstack": "Jamstack",
+    "nuxt": "Nuxt.js 3: llä"
+  }
+}

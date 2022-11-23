@@ -1,0 +1,86 @@
+{
+  "homepage": {
+    "title": "Web Developer & SEO Consultant",
+    "description": "I am a web developer based in Turku, Finland. I have a strong background in Search Engine Optimization (SEO) and e‑commerce."
+  },
+
+  "global": {
+    "loading": "Loading..."
+  },
+
+  "header": {
+    "close": "Close language switcher",
+    "contact": "Contact",
+    "langSelect": "Select language",
+    "switchLanguage": "Switch language",
+    "switchToDark": "Switch to dark color mode",
+    "switchToLight": "Switch to light color mode"
+  },
+
+  "intro": {
+    "title": "I help companies to build {fast} and{modern} websites with a focus on SEO and conversion.",
+    "title2": "I help companies to build <strong>fast</strong> and <strong>modern</strong> websites with a focus on SEO and conversion.",
+    "fast": "fast",
+    "modern": "modern",
+    "description": "Hola, I am a <strong>web developer</strong> based in Turku, Finland. I have a strong background in Search Engine Optimization (SEO) and e‑commerce.",
+    "h1": "freelance web developer",
+    "readMore": "Read more about me"
+  },
+
+  "about": {
+    "text": "My name is Xavier Catchot and I am a Barcelonese <mark>front-end developer</mark> and <mark>SEO consultant</mark> currently based in Turku, Finland. With 20+ years of experience of building websites, I have vast experience in <mark>e-Commerce</mark> and <mark>search engine optimization</mark>.",
+    "turkuPicture": "Illustration of Turku skyline"
+  },
+
+  "skills": {
+    "title": "Some of the tools I use in my daily workflow"
+  },
+
+  "modal": {
+    "close": "Close"
+  },
+
+  "contact": {
+    "title": "Contact me",
+    "description": "I'm happy to tell you about my services, experience, and skills in more detail. Please use this contact form if you’d like me to collaborate with your team in web development or SEO-related projects of any size!",
+    "description2": "You also can find me on the following networks:",
+    "linkedin": "Linkedin",
+    "github": "Github",
+    "name": "Name",
+    "yourName": "Your name",
+    "company": "Company",
+    "yourCompanyName": "Your company name",
+    "telephone": "Telephone",
+    "telephoneNumber": "Your phone number",
+    "message": "Message",
+    "iAccept": "I accept the {privacy}",
+    "iAccept2": "I accept the",
+    "privacyPolicy": "privacy policy",
+    "privacyPolicyTitle": "Privacy Policy",
+    "submit": "Submit",
+    "error": "Error",
+    "errorName": "Please provide your name",
+    "errorEmail": "Please provide your email",
+    "errorComment": "Please write your message",
+    "errorTerms": "Please accept my policy privacy",
+    "thanks": "Thank you! Your message has been successfully sent. I will answer you very soon!"
+  },
+
+  "form": {
+    "required": "required"
+  },
+
+  "location": {
+    "title": "Location"
+  },
+
+  "footer": {
+    "barcelona": "Barcelona",
+    "catalonia": "Catalonia",
+    "spain": "Spain",
+    "description": "Made with {nuxt}",
+    "description2": "Made with Nuxt 3",
+    "jamstack": "Jamstack",
+    "nuxt": "Nuxt 3"
+  }
+}
