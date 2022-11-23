@@ -4,6 +4,9 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/i18n',
   ],
+  head () {
+    return this.$nuxtI18nHead({ addSeoAttributes: true })
+  },
   i18n: {
     baseUrl: process.env.BASE_URL || 'http://localhost:3000',
     defaultLocale: 'en',
